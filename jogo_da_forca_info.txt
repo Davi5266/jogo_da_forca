@@ -1,0 +1,9 @@
+Passo 01:
+ Selecionar palavras de forma aleatoria
+
+Passo 02:
+ Função que separe as palavras por letras
+
+Passo 03:
+ Função que vai verificar se a letra é iqual e pertence a palavra
+ Verificar quantas vezes a mesma letra aparece dentro dessa palavra	
